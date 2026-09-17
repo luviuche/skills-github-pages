@@ -1,5 +1,5 @@
 ---
-title: Luis Miguel Viuche Madroñero
+title: luviuche's personal blog
 description: Systems Engineering student — backend, data structures and applied AI
 ---
 
